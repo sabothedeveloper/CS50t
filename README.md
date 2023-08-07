@@ -13,4 +13,4 @@ It has the following courses:
 
 More information [here](https://cs50.harvard.edu/technology/2017/).
 
-
+[![CS50 Certification](https://imgur.com/a/0BmSWwk)](https://certificates.cs50.io/7047b8b6-c9a8-42fe-a77e-966b1f8544bb.pdf?size=letter)
